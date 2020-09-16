@@ -1,0 +1,37 @@
+@font-face {
+  font-family: "iconfont";
+  src: url("../media/iconfont.eot?t=1600149774903"); /* IE9 */
+  src: url("../media/iconfont.eot?t=1600149774903#iefix")
+      format("embedded-opentype"),
+    /* IE6-IE8 */
+      url("data:application/x-font-woff2;charset=utf-8;base64,d09GMgABAAAAAAPkAAsAAAAACJAAAAOYAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHEIGVgCDKgqEJINAATYCJAMUCwwABCAFhG0HXBtYBxEVnNvIfhbkZPEpoAgeZxp921sQW/rV06jc74d4+Nrv9dyFlw2hS1RU8lXYUVF2fGVVp+OBJbGsMbWAxrFiB6T+z6+rN1r8WejIZDQo2slJ1JyZ6KQExWvK+uTZrU1RnapXYaLqmBLb5ad/nvxghQth9X/u5+vSCySvPZtLVFpEWNDOACuABtSNa5HxJvYF9Q9jV17EeQJDFhjA9rt4eUNTGNMCcSIhLgJaSqvUpIYmdCVri7gFlJYu48fATf/38R1WgkNSM2PukVjnaNh5jnqOJ3L/cwW7KOCNZwbbREYPKMTxUusxyKG/hzCkDC62gKZJjBWMeY7/7yNMHH8v0mb+wyMkWSE6RvII2EGBwqcoGyH4FIOQ+BSHkPkUz38pyRUMjRR8CLzGysUxPzEUeYLktClFRR5vgsM5IxjcUCTbNvWEI9sqVPtWOInqUSpPgSaHHiTmyhA1fB+iypkOhbjY5vbxEbmYplxZdGMG8m3WR4Myb7Rwrop3XVgKl680iO7L4NxRJLjCYMSlcQW6QsWP9mnS8//gGIRfX3vf3Pjc3fnd3vovXar3XFkvXqh1ns8sTpuVxCdHCDxqdJLVI/r2qV2QK2h/QmtlTs3vzf/lF1HtUvNS7RsX9EGwPcRfU2qJcjT7tChJ61pzfNqU25z+pWDxo67KPqBH81Kzx+tXNXOkxvA2znt31nGW4TotFWoLu20UE/3UK6u192WaqU16cxlJIncsMhJzN1ku28mJI2UzjIoqM4MqqaowS1P/vSqyZ7Mnx78TwUmAPmKJoCF9xP9Cfoz/lK0PBP/b9Q0TOnxz6OtselOcLkD2PhL6c/8XrzXvx/JaFhVVYOhqkfNtrmyrDiemSRgyhB8aZsrDOPLZ1l5CS/EYJAPmIWsW0QXfg2rYGnSabRiyzHXzsGkpkEUZxJIiAGHCNCRjnkE24QRd8PdQzfmCzkQQMIT1i/OeR5fwhyujEiyhWMFr6oxlkEOQ+kI7NoqTAp/yQx68C9IoyYae2CGPsWCYbCZiwDC18ACXYdMQ9EwVaomcSJ/HsSl7U6SpDQ6uGFIEKoHCCnga6Ri3vDjkvv+CrFFD4ZqCCvMPYgPfO0hFkhbop7RrVXAt1wwmVkYIAxiMtMADmFFj+gnoy0dVkCYiroe3l4tRKdNWGs0vb59xFwwxnlIjRY4SNTrbVU3N2HZHxUxzyN462WjV3oLsVDo8dMT+T52oJggA")
+      format("woff2"),
+    url("../media/iconfont.woff?t=1600149774903") format("woff"),
+    url("../media/iconfont.ttf?t=1600149774903") format("truetype"),
+    /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+      url("../media/iconfont.svg?t=1600149774903#iconfont") format("svg"); /* iOS 4.1- */
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-3column:before {
+  content: "\e663";
+}
+
+.icon-arrow-right:before {
+  content: "\e665";
+}
+
+.icon-camera:before {
+  content: "\e667";
+}
+
+.icon-column-horizontal:before {
+  content: "\e668";
+}
